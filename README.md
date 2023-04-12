@@ -12,6 +12,6 @@ This is a program that allows you to create graphs and do statistics on them.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
-- Python math library
+- Python `tkinter` library
+- Python `random` library
+- Python `math` library
